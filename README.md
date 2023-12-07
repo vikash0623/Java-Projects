@@ -1,3 +1,3 @@
 # Java-Projects
-This is my first Git Repository.
+Here some Java Projects (Portfolio)
 Author - Vikash Kumar
